@@ -87,7 +87,7 @@ IPADDR="$(curl -4skL http://ipinfo.io/ip)"
 
 GLOBAL_API_KEY="7d82ef85fe3666598cb22d64e38cfcc6c633c"
 CLOUDFLARE_EMAIL="marvinjubiar123@gmail.com"
-DOMAIN_NAME_TLD="joinu.mll"
+DOMAIN_NAME_TLD="joinu.ml"
 DOMAIN_ZONE_ID="b5a61677ac897994800a3d0a5d4d421b"
 ### DNS hostname / Payload here
 ## Setting variable
